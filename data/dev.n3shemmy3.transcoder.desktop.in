@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Transcoder
+Exec=transcoder
+Icon=dev.n3shemmy3.transcoder
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

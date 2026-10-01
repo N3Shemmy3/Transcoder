@@ -1,0 +1,6 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/dev.n3shemmy3.transcoder.desktop.in
+data/dev.n3shemmy3.transcoder.metainfo.xml.in
+data/dev.n3shemmy3.transcoder.gschema.xml
+src/window.ui
